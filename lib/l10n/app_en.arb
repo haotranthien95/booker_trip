@@ -1,0 +1,10 @@
+{
+  "lblHome": "Home",
+  "@lblHome": {
+    "description": "Home tab in bottonTabbar"
+  },
+  "lblNewFeed": "New Feed",
+  "@lblNewFeed":{
+    "description": "Your New Feed"
+  }
+}
